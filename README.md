@@ -1,0 +1,2 @@
+# NoobSolver
+competitive practices
